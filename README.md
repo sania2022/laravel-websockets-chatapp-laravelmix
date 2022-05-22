@@ -12,7 +12,8 @@ Be sure to check out the [official documentation](https://docs.beyondco.de/larav
 4. `php artisan migrate`
 5. `php artisan key:generate`
 6. `php artisan websockets:serve`
-
+7. npm install
+8. npm run watch
 
 
 
